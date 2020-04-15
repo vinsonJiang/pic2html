@@ -13,7 +13,7 @@
         <main.class.name/>
         <protoc.path>/data/local/protobuf-3.4.0/bin/protoc</protoc.path>
         <lib.path>mylib</lib.path>
-        <netty.version>4.1.32.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <package.dir>${project.basedir}/target/packages</package.dir>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
